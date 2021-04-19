@@ -68,11 +68,20 @@ Name: Alex Zhu (github:azhu2)
 Name: github:opatut
 Name: Simone Picciani (github:zanza00)
 Name: github:cube5
+Name: J (github:jucke)
 Name: James Robert Perih (github:hotdang-ca)
 Name: Igor Santos (github:igorsantos07)
 Name: Jordan Finnigan (github:JadoJodo)
 Name: Christian Froehler (github:generatorr)
 Name: Fabian Kochem (github:vortec)
+Name: Gustavo de León (github:bestgustavo30)
+Name: Alex Mayer (github:amayer5125)
+Name: Ahmad Samiei (github:amad)
+Name: Shaun Hammill (github:Plloi)
+Name: github:KneeNinetySeven
+Name: Rafael Reis (github:reisraff)
+Name: github:ShanTulshi
+Name: Jonatha Daguerre (github:jonathadv)
 
 /* SITE */
 Last update: 2014/04/17
